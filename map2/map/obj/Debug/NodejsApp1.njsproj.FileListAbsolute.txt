@@ -1,0 +1,2 @@
+C:\map2\map\obj\Debug\NodejsApp1.njsprojAssemblyReference.cache
+C:\map2\map\bin\Microsoft.NodejsTools.WebRole.dll

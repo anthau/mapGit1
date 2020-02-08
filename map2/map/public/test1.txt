@@ -1,0 +1,3 @@
+Aitopartio ry;9999605;Kolo;Jenseninkatu 1;33610;Tampere;;61.521324;23.94805;;;www.aitopartio.fi;Kolomme sijaitsee Aitolahden kirkon vieressä, keltaisen pienkerrostalon alimmassa kerroksessa. Sisäänkäynti parkkipaikan puolelta.
+Kalevan Karhut ry;9999633;Ilmarinkadun kolo;Ilmarinkatu 37 B;33500;Tampere;;61.502369;23.795786;;;;
+Messukylän Metsätytöt ry;9999656;Messukylän srk-talo;Messukylänkatu 36;33700;Tampere;;61.486097;23.839212;;;;
