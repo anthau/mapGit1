@@ -5,7 +5,9 @@
   height: 800px;
   width: 1500px;
 }
-
+em  {
+    color:white;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
